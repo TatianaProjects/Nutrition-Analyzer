@@ -1,16 +1,25 @@
-# React + Vite
+# 🥗 Nutrition Analyzer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive React application that analyzes nutritional values based on ingredients entered by the user.
 
-Currently, two official plugins are available:
+🔗 Live Demo: [View App](YOUR_NETLIFY_LINK)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+✔ Analyze ingredients using Edamam Nutrition API  
+✔ POST request with JSON body  
+✔ Dynamic calorie calculation  
+✔ Display protein, fat, carbs and fiber values  
+✔ Input validation and custom error messages  
+✔ Loading indicator while waiting for API response  
+✔ Responsive design for mobile devices  
+✔ Animated background with glassmorphism UI  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠 Technologies
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- JavaScript
+- CSS
+- Edamam Nutrition API
+- Fetch API
+- React Hooks (useState)
