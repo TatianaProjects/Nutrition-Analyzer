@@ -2,8 +2,6 @@
 
 A responsive React application that analyzes nutritional values based on ingredients entered by the user.
 
-🔗 Live Demo: https://nutritionanalyzer2026.netlify.app/
-
 ## ✨ Features
 
 ✔ Analyze ingredients using Edamam Nutrition API  
@@ -13,7 +11,6 @@ A responsive React application that analyzes nutritional values based on ingredi
 ✔ Input validation and custom error messages  
 ✔ Loading indicator while waiting for API response  
 ✔ Responsive design for mobile devices  
-✔ Animated background with glassmorphism UI  
 
 ## 🛠 Technologies
 
@@ -21,5 +18,5 @@ A responsive React application that analyzes nutritional values based on ingredi
 - JavaScript
 - CSS
 - Edamam Nutrition API
-- Fetch API
-- React Hooks (useState)
+
+🔗 Live Demo: https://nutritionanalyzer2026.netlify.app/
