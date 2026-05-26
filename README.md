@@ -2,7 +2,7 @@
 
 A responsive React application that analyzes nutritional values based on ingredients entered by the user.
 
-🔗 Live Demo: [View App](YOUR_NETLIFY_LINK)
+🔗 Live Demo: [View App]([https://nutritionanalyzer2026.netlify.app/])
 
 ## ✨ Features
 
